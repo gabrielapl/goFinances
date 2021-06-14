@@ -5,8 +5,14 @@
     "name": "gofinances",
     "slug": "gofinances",
     "version": "1.0.0",
+    "splash": {
+      "backgroundColor": "#5636D3"
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.gofinances"
+    }
   }
 }
